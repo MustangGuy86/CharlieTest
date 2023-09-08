@@ -2,11 +2,13 @@
 
 <h2>👨‍💻 Cybersecurity Projects Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/CharlieTest/LABURL)
- -[Hello World](https://github.com/CharlieTest/LABURL) 
+-[Active Directory Home Lab](https://github.com/CharlieTest/LABURL)
+
+-[Hello World](https://github.com/CharlieTest/LABURL) 
 
   <h2>👨‍💻 Cybersecurity Certifications:</h2>
-- [CompTia Security +](https://www.youtube.com/watch?v=a83ASGn_V_s)
+  
+-[CompTia Security +](https://www.youtube.com/watch?v=a83ASGn_V_s)
   
 <h2>📺 Popular YouTube Videos</h2>
 
