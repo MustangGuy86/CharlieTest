@@ -13,14 +13,6 @@
 - [Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
   
 
-<h2> 🤳 Connect with me:</h2>
-
-
-[<img align="left" alt="CharlesGoetz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[linkedin]: www.linkedin.com/in/charles-g-642172133
-
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
