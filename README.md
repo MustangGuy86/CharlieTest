@@ -8,7 +8,7 @@
 
   <h2>👨‍💻 Cybersecurity Certifications:</h2>
   
--[CompTia Security +](https://file:///C:/Users/cgoet/Downloads/CompTIA%20Security+%20ce%20certificate.pdf)
+-[CompTia Security +](https://www.youtube.com/watch?v=a83ASGn_V_s)
   
 <h2>📺 Popular YouTube Videos</h2>
 
