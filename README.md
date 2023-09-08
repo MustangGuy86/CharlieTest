@@ -8,7 +8,7 @@
 
   <h2>👨‍💻 Cybersecurity Certifications:</h2>
   
--[CompTia Security +](https://www.youtube.com/watch?v=a83ASGn_V_s)
+-[CompTia Security +(Verification Code: REHMNEVSLJRQ1F5)]( http://verify.CompTIA.org)
   
 <h2>📺 Popular YouTube Videos</h2>
 
